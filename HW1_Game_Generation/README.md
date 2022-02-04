@@ -1,5 +1,5 @@
 # CIS-700-Interactive-Fiction-Generation
-Homework&amp;Project respo for CIS 700
+Homework respo for CIS 700 HW1
 
 ## Simplified Inception
 My Game is a very simplified version of a movie called Inception, which is one of my favourite movies. 
