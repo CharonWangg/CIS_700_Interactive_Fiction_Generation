@@ -1,4 +1,4 @@
-# CIS-700-Interactive-Fiction-Generation
+# CIS-700-Interactive-Fiction-Generation-HW1
 Homework respo for CIS 700 HW1
 
 ## Simplified Inception
